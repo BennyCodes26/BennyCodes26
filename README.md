@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on my Software Engineering Project and my Machine Learning Thesis
+- 🌱 I’m currently learning Github, because I don't know what they're talking about, pulls, commits? what are those? That's why im studying Github.
 
 <!--
 **BennyCodes26/BennyCodes26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
